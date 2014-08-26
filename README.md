@@ -14,7 +14,7 @@ Model support is as follows:
     Original                Rebranded as    Status*
 
        Huion 580                            likely works
-             H420           osu!tablet(?)   works
+             H420           osu!tablet(?)  works
              H610                           works
              H690                           works
              K58                            works
@@ -40,7 +40,9 @@ Model support is as follows:
         separately
 
     (?) the rebranded model is likely the specified original model,
-        but wasn't verified to be
+        but wasn't verified to be.
+        osu! is a rythmn game on PC and Mac (and also works on Linux with Wine), where you have to click circles in
+        rythm to win. Because the needed skill in osu! can be very high on insane beatmaps, some players uses tablets           and the osu!tablet has been created by Huion because osu! players needed a low-cost tablet.
 
 Please send your testing results to DIGImend-devel@lists.sourceforge.net, or
 do a pull request with updates.
